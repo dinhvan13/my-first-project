@@ -1,3 +1,4 @@
+<h1 align="center">Bang cuu chuong<h1><br>
 <table border="1px" align="center" >
 	<tr>
 <?php 
