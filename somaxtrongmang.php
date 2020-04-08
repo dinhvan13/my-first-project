@@ -1,6 +1,6 @@
 <?php 
   //tim so nguyen lon nhat trong mang
-  $arraySN = array(1,3,5,8,0,3,8,98,3);
+  $arraySN = array(1,4,2,6,9,100,45,8,20);
   $max=null;
   for ($i=0; $i < count($arraySN) ; $i++) { 
   	# code...
